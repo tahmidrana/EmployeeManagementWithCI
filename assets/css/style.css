@@ -1,0 +1,18 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    //background-color: #008080;
+}
+.header{
+    height: 80px;
+}
+.header h1{
+    font-family: arial;
+    text-align: center;
+}
+.body{
+    //padding: 10px;
+}
+.footer{
+    padding: 10px;
+}
